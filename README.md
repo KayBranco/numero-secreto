@@ -12,7 +12,7 @@
 
 ## 👥 Time  
 
-<div align="center">
+<div align="corner">
   <img src="https://avatars.githubusercontent.com/u/135459683?v=4" width="150" style="border-radius: 50%;" alt="Foto de Kaiky Andrade"/>
   <br>
   <strong><a href="https://github.com/KayBranco">Kaiky Andrade</a></strong>
