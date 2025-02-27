@@ -1,4 +1,3 @@
-<h1>👋 Olá! Eu sou Kaiky Andrade</h1>  
 
 ## 📌 Projeto utilizado nos cursos de lógica de programação da Alura.  
 🔹 Pequeno jogo feito em HTML, CSS e JavaScript
