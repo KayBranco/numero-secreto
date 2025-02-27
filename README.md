@@ -1,6 +1,6 @@
 
 ## 📌 Projeto utilizado nos cursos de lógica de programação da Alura.  
-🔹 Pequeno jogo feito em HTML, CSS e JavaScript
+🔹 Pequeno jogo feito em HTML, CSS e JavaScript.
 
 ## 🛠️ Tecnologias  
 <div>  
